@@ -72,7 +72,7 @@ Happy coding!
 ## Quick Note
 This README.md provides an introduction to the fundamental aspects of PeoriCSS. If you're dealing with more intricate projects, we highly recommend visiting our official website for comprehensive documentation and advanced usage instructions
 
-# Credits
+## Credits
 - Main Programmer: Mathias Lin
 - CSS hosting service: CDN{jsdelivr}'
 - Inspiration: Bulma(CSS Framework)
