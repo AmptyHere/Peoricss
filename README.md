@@ -25,6 +25,15 @@ To begin using PeoriCSS, include the CSS file in your HTML document:
 # Basics
 Peoricss provides a variety of typography-related classes, including font sizes and font families.
 
+## Syntax
+In Peoricss, we establish specific syntax and patterns to distinguish between elements that are meant to be easily readable and those that are not:
+
+-rb (Readable): Use the rb class to indicate elements that are connected to text or content meant to be read. This is suitable for text, paragraphs, headings, and other readable components.
+
+-urb (Unreadable): The urb class is intended for elements that are not meant to be read directly, such as images, colors, grids, and similar non-textual elements.
+
+By following these guidelines, you can improve the clarity and organization of your HTML code, making it easier for developers to understand and work with.
+
 ## Font Sizes
 - .rb-size-1: Set font size to 10px.
 - .rb-size-2: Set font size to 13px.
