@@ -23,14 +23,16 @@ To begin using PeoriCSS, include the CSS file in your HTML document:
 ````
 
 # Basics
-Peoricss provides a variety of typography-related classes, including font sizes and font families.
+To make the most of Peoricss, it's advisable to start with a solid grasp of its core principles and fundamentals. Gaining proficiency in these basics will pave the way for a smoother and more enjoyable experience with the framework.
 
 ## Syntax
 In Peoricss, we establish specific syntax and patterns to distinguish between elements that are meant to be easily readable and those that are not:
 
--rb (Readable): Use the rb class to indicate elements that are connected to text or content meant to be read. This is suitable for text, paragraphs, headings, and other readable components.
+- rb (Readable): Use the rb class to indicate elements that are connected to text or content meant to be read. This is suitable for text, paragraphs, headings, and other readable components.
 
--urb (Unreadable): The urb class is intended for elements that are not meant to be read directly, such as images, colors, grids, and similar non-textual elements.
+- urb (Unreadable): The urb class is intended for elements that are not meant to be read directly, such as images, colors, grids, and similar non-textual elements.
+
+- party3 (Third-Party): The party3 class is designated for elements originating from third-party sources, mainly responsible for handling links, imports, and external content. This class is vital for segregating and identifying elements that come from external locations and might require special handling.(Is Underconstruction/Not ready to implemet on your html.)
 
 By following these guidelines, you can improve the clarity and organization of your HTML code, making it easier for developers to understand and work with.
 
