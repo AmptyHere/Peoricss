@@ -19,7 +19,7 @@ PeoriCSS is a versatile and customizable CSS framework that simplifies web devel
 To begin using PeoriCSS, include the CSS file in your HTML document:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Whilegames/Peroricss@main/Peoricss.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Peoric/Peroricss@main/Peoricss.css">
 ````
 
 # Basics
