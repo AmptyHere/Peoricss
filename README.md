@@ -26,36 +26,36 @@ To begin using PeoriCSS, include the CSS file in your HTML document:
 Peoricss provides a variety of typography-related classes, including font sizes and font families.
 
 ## Font Sizes
-.rb-size-1: Set font size to 10px.
-.rb-size-2: Set font size to 13px.
-.rb-size-3: Set font size to 16px.
+- .rb-size-1: Set font size to 10px.
+- .rb-size-2: Set font size to 13px.
+- .rb-size-3: Set font size to 16px.
 
 ## Colors
 Peoricss offers a range of predefined colors for text and backgrounds.
 
-.urb-color-primary: Primary color.
-.urb-color-secondary: Secondary color.
-.urb-color-tertiary: Tertiary color.
+- .urb-color-primary: Primary color.
+- .urb-color-secondary: Secondary color.
+- .urb-color-tertiary: Tertiary color.
 
 ## Spacing
 Peoricss includes classes for adding margins and padding to elements.
 
-.rb-margin: Add margins.
-.rb-padding: Add padding.
+- .rb-margin: Add margins.
+- .rb-padding: Add padding.
 
 ## Text Alignment
 Control text alignment with these classes.
 
-.rb-text-center: Center-align text.
-.rb-text-right: Right-align text.
-.rb-text-left: Left-align text.
+- .rb-text-center: Center-align text.
+- .rb-text-right: Right-align text.
+- .rb-text-left: Left-align text.
 
 ## Responsive Grid
 Create responsive grids with Peoricss classes.
 
-.urb-container: Create a grid container.
-.urb-gridfunc: Define grid columns.
-.urb-maingrid: Define main content grid.
+- .urb-container: Create a grid container.
+- .urb-gridfunc: Define grid columns.
+- .urb-maingrid: Define main content grid.
 
 ## Why Peoricss?
 
@@ -71,7 +71,7 @@ Happy coding!
 
 
 # Credits
-Main Programmer: Mathias Lin
-CSS hosting service: CDN{jsdelivr}'
-Inspiration: Bulma(CSS Framework)
+- Main Programmer: Mathias Lin
+- CSS hosting service: CDN{jsdelivr}'
+- Inspiration: Bulma(CSS Framework)
 
