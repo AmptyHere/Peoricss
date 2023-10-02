@@ -85,6 +85,6 @@ This README.md provides an introduction to the fundamental aspects of PeoriCSS. 
 
 ## Credits
 - Main Programmer: Mathias Lin
-- CSS hosting service: CDN{jsdelivr}'
+- CSS hosting service: CDN{jsdelivr}
 - Inspiration: Bulma(CSS Framework)
 
