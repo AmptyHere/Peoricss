@@ -46,6 +46,7 @@ Within this file, you'll find our comprehensive Rules Policy, which is intended 
 ## Quick Note
 These rules are in place to create a safe, respectful, and law-abiding environment for all users of our framework. Violations of these rules may result in consequences, including but not limited to suspension of access to the framework. We appreciate your cooperation in adhering to these guidelines.
 
+
 # Responsebility
 Within this category, you'll discover a range of subjects where our responsibilities vary. Some areas have clear responsibilities, while others are less defined. Our goal is to provide insight and transparency across a wide spectrum of subjects. We recommend you read the whole article before using our framework. Whether our roles are well-defined or more ambiguous, our aim is to deliver clarity and understanding.
 
