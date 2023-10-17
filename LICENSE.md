@@ -1,7 +1,7 @@
 # Framework Policy Rules
 Within this file, you'll find our comprehensive Rules Policy, which is intended to be furnished to you and all other users of our framework. This document serves as a crucial resource, outlining the guidelines and regulations that govern our framework's usage, ensuring that you have access to the necessary information to navigate it effectively.
 
-# Rules
+## Rules
 
 - 1. Compliance with Laws and Regulations: Users must adhere to all applicable local, national, and international laws and regulations while using our framework. Any illegal activities are strictly prohibited.
 
@@ -47,10 +47,10 @@ Within this file, you'll find our comprehensive Rules Policy, which is intended 
 These rules are in place to create a safe, respectful, and law-abiding environment for all users of our framework. Violations of these rules may result in consequences, including but not limited to suspension of access to the framework. We appreciate your cooperation in adhering to these guidelines.
 
 
-# Responsebility
+## Responsebility
 Within this category, you'll discover a range of subjects where our responsibilities vary. Some areas have clear responsibilities, while others are less defined. Our goal is to provide insight and transparency across a wide spectrum of subjects. We recommend you read the whole article before using our framework. Whether our roles are well-defined or more ambiguous, our aim is to deliver clarity and understanding.
 
-## Responseble
+### Responseble
 - User Experience:
  In our commitment to delivering an outstanding user experience, we place a high priority on crafting an intuitive, efficient, and delightful interaction with our products and services. This encompasses enhancing the user interface, simplifying workflows, and incorporating user-friendly functionalities while using our CSS framework.
 
