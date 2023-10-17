@@ -1,2 +1,2 @@
 # Framework Policy Rules
--s
+- s
