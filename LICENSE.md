@@ -95,4 +95,4 @@ This framework is designed to empower individuals to create and design websites 
 
 Developed by: AmptyHere,
 
-All rights reserved
+© All rights reserved
