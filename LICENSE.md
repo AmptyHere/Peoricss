@@ -43,7 +43,7 @@ Within this file, you'll find our comprehensive Rules Policy, which is intended 
 
 - 20. Respect for Diversity: Embrace diversity and refrain from discriminatory or prejudiced behavior. Treat all individuals with respect, regardless of their background or characteristics.
 
-## Quick Note
+### Quick Note
 These rules are in place to create a safe, respectful, and law-abiding environment for all users of our framework. Violations of these rules may result in consequences, including but not limited to suspension of access to the framework. We appreciate your cooperation in adhering to these guidelines.
 
 
@@ -69,7 +69,7 @@ Within this category, you'll discover a range of subjects where our responsibili
 - Continuous Improvement:
   Responsibility also extends to a commitment to ongoing self-assessment and growth. We continually strive to enhance our practices, policies, and services to better serve you.
   
-## irresponseble
+### irresponseble
 - Illegal Usage of the Framework:
   We expressly disclaim any responsibility for any illegal or unauthorized use of our framework. Users are expected to adhere to all   relevant laws and regulations in their use of our tools and services. Any illegal activities conducted using our framework are the sole responsibility of the individuals involved.
 
@@ -90,9 +90,9 @@ In cases of unforeseen disruptions such as technical failures, we will strive to
 - Non-Compliance:
   Users are responsible for complying with applicable laws and regulations when using our services. Non-compliance is not our responsibility.
   
-## Quick Note
+### Quick Note
 This framework is designed to empower individuals to create and design websites with ease and flexibility. We want to emphasize that we are not related to any code or markup, except for CSS. Therefore, there should not even be a consideration that our program has leaked someone's data or any sensitive information. We remain committed to providing a secure and user-friendly environment for web development, with a clear distinction between our framework and data-related issues.
 
-Developed by: AmptyHere,
+#### Developed by: AmptyHere,
 
-© All rights reserved
+#### © All rights reserved
