@@ -79,7 +79,8 @@ Within this category, you'll discover a range of subjects where our responsibili
 - Third-Party Content:
 Content sourced from third-party providers is not within our direct control. If you wish to include third-party content, such as links, within our platform, we strongly recommend encapsulating it within our designated "party3" class. This class is designed to manage and mitigate potential issues associated with third-party actions. However, it is important to note that we cannot assume responsibility for the accuracy or quality of such external content.
 
-- User privacy leak
+- User privacy leak:
+  
 We are responsible for addressing and mitigating leaks that occur inside our program, except for those related to forms and similar components, which we are not accountable for. This includes taking full responsibility for potential user privacy breaches that may be inherent within our framework's code. However, we are not liable for leaks that occur outside of our program or are caused by third-party entities with the exemple of JS/JavaScript.
 
 - Disruptions Beyond Control:
