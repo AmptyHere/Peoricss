@@ -94,5 +94,5 @@ In cases of unforeseen disruptions such as technical failures, we will strive to
 ## Quick Note
 This framework is designed to empower individuals to create and design websites with ease and flexibility. We want to emphasize that we are not related to any code or markup, except for CSS. Therefore, there should not even be a consideration that our program has leaked someone's data or any sensitive information. We remain committed to providing a secure and user-friendly environment for web development, with a clear distinction between our framework and data-related issues.
 
-Developed by: AmptyHere
-## All rights reserved
+## Developed by: AmptyHere
+# All rights reserved
