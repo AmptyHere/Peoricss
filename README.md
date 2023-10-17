@@ -32,7 +32,7 @@ In Peoricss, we establish specific syntax and patterns to distinguish between el
 
 - urb (Unreadable): The urb class is intended for elements that are not meant to be read directly, such as images, colors, grids, and similar non-textual elements.
 
-- party3 (Third-Party): The party3 class is designated for elements originating from third-party sources, mainly responsible for handling links, imports, and external content. This class is vital for segregating and identifying elements that come from external locations and might require special handling.(Is Underconstruction/Not ready to implemet on your html.)
+- party3 (Third-Party): The party3 class is designated for elements originating from third-party sources, mainly responsible for handling links, imports, and external content. This class is vital for segregating and identifying elements that come from external locations and might require special handling.
 
 By following these guidelines, you can improve the clarity and organization of your HTML code, making it easier for developers to understand and work with.
 
