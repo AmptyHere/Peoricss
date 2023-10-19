@@ -65,8 +65,8 @@ Control text alignment with these classes.
 Create responsive grids with Peoricss classes.
 
 - .urb-container: Create a grid container.
-- .urb-gridfunc: Define grid columns.
-- .urb-maingrid: Define main content grid.
+- .urb-grid: Define grid columns.
+- .urb-grid-item: Define main content grid.
 
 ## Why Peoricss?
 
